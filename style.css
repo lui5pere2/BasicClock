@@ -1,0 +1,48 @@
+/*
+LIGHTEST
+
+#FFFFCB
+#C9FFD5
+#74CEB7
+#2C858D
+#004056
+
+DARKEST
+*/
+
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #FFFFCB;
+}
+
+#app {
+  width: 30%;
+  min-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+#title {
+  color: #74CEB7;
+  font-size: 2em;
+  text-align: center;
+}
+
+#time {
+  color: #004056;
+  font-size: 4em;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#date {
+  color: #2C858D;
+  font-size: 1em;
+  margin-top: 0.5em;
+  text-align: center;
+}
